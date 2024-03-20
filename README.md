@@ -3,7 +3,7 @@
 # Project title = NLP applications - Sentiment analysis
 
 # Project overview
-This project aims to analyse customer sentiment in amazon product reviews. By leveraging machine learning techniques, the reviews are classified as positive or negative, providing better customer understanding, valuble insights for decision making and improve product offerings.
+This project aims to analyse customer sentiment in amazon product reviews. By leveraging machine learning techniques, the reviews are classified as positive or negative, providing better customer understanding, valuable insights for decision making and improve product offerings.
 
 # Table of contents-
 
